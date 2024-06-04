@@ -1,0 +1,92 @@
+{
+  "albums": [
+    {
+      "title": "1231231xx",
+      "id": "6103"
+    },
+    {
+      "title": "423422",
+      "id": "af3d"
+    },
+    {
+      "title": "234asd",
+      "id": "fef2"
+    },
+    {
+      "title": "ffad11",
+      "id": "4a90"
+    },
+    {
+      "id": "e824",
+      "title": "dfggfdgdfgfd"
+    },
+    {
+      "id": "6a7e",
+      "title": "sdfs"
+    },
+    {
+      "title": "7sadasdasasdsasdadasd",
+      "id": "f9ed"
+    },
+    {
+      "id": "8d2c",
+      "title": "dfg"
+    },
+    {
+      "id": "5256",
+      "title": "dfgdfg"
+    },
+    {
+      "id": "1359",
+      "title": "fdgdfg"
+    },
+    {
+      "id": "44b0",
+      "title": "dfg"
+    },
+    {
+      "id": "b677",
+      "title": "z"
+    },
+    {
+      "id": "0a1a",
+      "title": "z1"
+    },
+    {
+      "id": "62dd",
+      "title": "zx"
+    },
+    {
+      "id": "1d79",
+      "title": "nn"
+    },
+    {
+      "id": "f4f2",
+      "title": "mm"
+    },
+    {
+      "id": "95ac",
+      "title": ",,"
+    },
+    {
+      "id": "3b64",
+      "title": "ss"
+    },
+    {
+      "id": "03c9",
+      "title": "dd"
+    }
+  ],
+  "photos": [
+    {
+      "id": "dd55",
+      "title": "random photo",
+      "url": "https://media.istockphoto.com/id/2148964728/photo/mirror-facade-of-a-skyscraper-in-which-the-clouds-and-blue-sky-are-reflected.webp?b=1&s=170667a&w=0&k=20&c=MzqTWTppBvUIZWYM6ezPa3NiXCP5U6hjihXFnb-vXpE="
+    },
+    {
+      "id": "2ccf",
+      "title": "test 22",
+      "url": "https://media.istockphoto.com/id/2031580712/photo/cloud-computing-and-technology-icons-protecting-lifestyle-and-confidential-data-internet.webp?b=1&s=170667a&w=0&k=20&c=6tyPoHvcomYpehhH3se7792TtbGA_rBoeHOoXIHYG6E="
+    }
+  ]
+}
